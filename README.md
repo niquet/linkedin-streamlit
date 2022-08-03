@@ -1,2 +1,1 @@
-# linkedin-streamlit
-LinkedIn building blocks and visualizers for Streamlit apps
+# linkedin-streamlit: LinkedIn building blocks and visualizers for Streamlit apps
